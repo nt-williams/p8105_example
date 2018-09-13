@@ -1,0 +1,13 @@
+---
+title: "Git Example"
+author: "Nick Williams"
+date: "September 13, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+
